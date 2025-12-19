@@ -113,6 +113,23 @@ Key principles:
 
 ---
 
+## 🧪 Getting Started
+### 1. Clone the Repository
+```bash
+git clone https://github.com/irfafarooq-ee/BCD-Multiplier
+```
+
+### 2. Navigate to the Project Directory
+Copy code
+```bash
+cd BCD-Multiplier
+```
+
+### 3. Compile and Run
+Compile the example programs using a C++ compiler such as g++, gcc, etc.:
+
+---
+
 ## 🚀 Future Improvements
 - FPGA-based implementation for speed and scalability
 - Improved display resolution
